@@ -1,6 +1,6 @@
 import { StaticImage } from "gatsby-plugin-image";
 import * as React from "react";
-import Layout from "../components/Layout";
+import Layout from "../components/layout";
 import Seo from "../components/seo";
 
 const IndexPage = () => {
